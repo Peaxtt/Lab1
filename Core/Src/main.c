@@ -28,7 +28,7 @@ TIM_HandleTypeDef htim2;
 TIM_HandleTypeDef htim3;
 
 /* USER CODE BEGIN PV */
-uint16_t adc_buffer[40];
+uint16_t adc_buffer[400];
 uint32_t adc_sum[4];
 
 // ค่าที่คำนวณได้
